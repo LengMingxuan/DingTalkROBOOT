@@ -1,6 +1,8 @@
 # DingTalkROBOOT
 最简易的钉钉群机器人，只听过发送内容的建议SKD(独立可运行)
 
+![](https://img.shields.io/badge/DingTalk-PC%205.1.11-blue)
+
 ### 消息类型及数据格式
 #### text类型
 ```python
