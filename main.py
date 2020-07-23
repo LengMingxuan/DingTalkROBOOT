@@ -1,7 +1,7 @@
 from urllib import parse, request
 import json
 def ding_api(contents):
-    url = "https://oapi.dingtalk.com/robot/send?access_token=15c55f69a3f07b470c72513ab70336f7f4264f2496d4df266e91e1c4a9d3ac0c"
+    url = "https://oapi.dingtalk.com/robot/send?access_token=****"
 
     postdata = json.dumps({
         "msgtype": "markdown",
