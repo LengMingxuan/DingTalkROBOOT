@@ -7,7 +7,7 @@ def ding_api(contents):
         "msgtype": "markdown",
      "markdown": {
          "title":"【网小工】英语IV成绩可查询",
-         "text": " #### 英语IV成绩教务系统开放查询~\n> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n> 今天是暑假的第5天，离暑假结束还有37天！\n大学英语IV成绩已在教务系统公布，但未推送，同学们可点击下方蓝字手动查询~ ![大学英语4](https://courseres.sflep.com/resource/images/course/2bdc0feac5d14a1bb8c19f3f11aaed87.jpg)\n> ###### 点击右侧“蓝字”查询英语成绩(超级课程表提供支持)[成绩查询](https://score.super.cn/Score/score.html?schoolIdentity=50FC9CD6FAA8855F91F425302C07C1E7&identity=7F59C830687546D012962F1661C94862) \n"
+         "text": " #### 英语IV成绩教务系统开放查询~\n> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n> 今天是暑假的第6天，离暑假结束还有36天！\n各位同学，如果发现今日校园没有按时推送，请在上午等待app推送通知再及时填写，健康打卡没有特出情况会一直有的，**每天都需要填写哦~** \n> ![五四广场夜景](http://www.lengmingxuan.top/wp-content/uploads/2019/12/timg-scaled.jpeg)\n> ###### 问候不一定要慎重其事，但一定要真诚感人。[临沂大学](https://www.lyu.edu.cn/) \n"
      },
         "at": {
             "atMobiles": [
