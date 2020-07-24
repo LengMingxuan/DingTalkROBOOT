@@ -6,14 +6,14 @@ def ding_api(contents):
     postdata = json.dumps({
         "msgtype": "markdown",
      "markdown": {
-         "title":"【网小工】英语IV成绩可查询",
-         "text": " #### 英语IV成绩教务系统开放查询~\n> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n> 今天是暑假的第6天，离暑假结束还有36天！\n各位同学，如果发现今日校园没有按时推送，请在上午等待app推送通知再及时填写，健康打卡没有特出情况会一直有的，**每天都需要填写哦~** \n> ![五四广场夜景](http://www.lengmingxuan.top/wp-content/uploads/2019/12/timg-scaled.jpeg)\n> ###### 问候不一定要慎重其事，但一定要真诚感人。[临沂大学](https://www.lyu.edu.cn/) \n"
+         "title":"【网小工】周末到了~",
+         "text": "#### 放假第一个周结束了~\n> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n> 今天是暑假的第7天，离暑假结束还有35天！\n周末准备去哪玩？忙碌了一个周的你该找个好吃的地方犒劳一下自己了～！ ![大学英语4](http://www.lengmingxuan.top/wp-content/uploads/2019/12/contact.jpg)\n> ###### 网工小天地 Trello 已上线，快来看看吧[网工小天地](https://trello.com/b/eNxnmgzT) \n"
      },
         "at": {
             "atMobiles": [
 
             ],
-            "isAtAll": True  # @所有人时：true，否则为：false
+            "isAtAll": False  # @所有人时：true，否则为：false
         }
     }).encode('utf-8')
 
